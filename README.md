@@ -1,2 +1,2 @@
 # RPG-Program
- Role Playing Game FullStack project
+ Role Playing Game built using HTML, CSS and JavaScript
